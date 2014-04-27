@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorrentEpisodePrettyNameLib", "TorrentEpisodePrettyNameLib\TorrentEpisodePrettyNameLib.csproj", "{E15ED1E7-975F-4177-A112-041612FEE028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{272BA6D3-B583-4FAE-A071-AC5665A4EE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{86E9E42B-CEB2-4C78-98C2-FE64C66F3097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorrentShowEpisodePrettyName", "TorrentShowEpisodePrettyName\TorrentShowEpisodePrettyName.csproj", "{0CA3E554-D2D2-4F6C-A602-99BEBCE80296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E15ED1E7-975F-4177-A112-041612FEE028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15ED1E7-975F-4177-A112-041612FEE028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15ED1E7-975F-4177-A112-041612FEE028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15ED1E7-975F-4177-A112-041612FEE028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272BA6D3-B583-4FAE-A071-AC5665A4EE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272BA6D3-B583-4FAE-A071-AC5665A4EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272BA6D3-B583-4FAE-A071-AC5665A4EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272BA6D3-B583-4FAE-A071-AC5665A4EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E9E42B-CEB2-4C78-98C2-FE64C66F3097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E9E42B-CEB2-4C78-98C2-FE64C66F3097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E9E42B-CEB2-4C78-98C2-FE64C66F3097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E9E42B-CEB2-4C78-98C2-FE64C66F3097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA3E554-D2D2-4F6C-A602-99BEBCE80296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA3E554-D2D2-4F6C-A602-99BEBCE80296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA3E554-D2D2-4F6C-A602-99BEBCE80296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA3E554-D2D2-4F6C-A602-99BEBCE80296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
